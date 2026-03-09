@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+scikit-learn
+seaborn
+flask
+uuid
+sqlite3
+json
+os
